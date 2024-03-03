@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Types In PHP</title>
 </head>
+
 <body>
 
     <h1>Data types in PHP</h1>
@@ -15,13 +17,18 @@
     $basic_number = 56;
     $decimal = 45.5;
     $isSex = false;
+    $name = "janet";
+
+    echo "yes, I am $name <br>";
+    echo 4.55 + 5;
 
     echo $phrase;
-    
-    
-    
-    
+
+
+
+
     ?>
-    
+
 </body>
+
 </html>
