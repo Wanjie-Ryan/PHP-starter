@@ -31,6 +31,15 @@
 
 
     </form>
+
+    <?php
+
+    $fruits = $_POST['fruits'];
+
+    echo $fruits[0];
+
+
+    ?>
 </body>
 
 </html>
